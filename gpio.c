@@ -3,7 +3,6 @@
   * @file    Lab-Libraries/gpio.c
   * @author  CSF Team
   * @mail    formation@csf.tn
-  * @Tel     (+216)92.039.433
   * @version V1.0.0
   * @date    21-10-2024
   *****************************************************************************
